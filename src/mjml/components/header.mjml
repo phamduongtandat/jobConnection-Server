@@ -1,0 +1,10 @@
+<mj-section padding-top="36px" padding-bottom="36px" background-color="#fff">
+  <mj-column>
+    <mj-image
+      src="https://i.ibb.co/GHB1fkh/logo-black.png"
+      width="120px"
+      padding="0px"
+      href="https://amazon.ca"
+    />
+  </mj-column>
+</mj-section>

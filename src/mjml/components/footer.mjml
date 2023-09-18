@@ -1,0 +1,17 @@
+<mj-section background-color="#f7f7f7" padding-top="36px" padding-bottom="36px">
+  <mj-column>
+    <mj-text font-size="12px">
+      Email được gửi từ website:
+      <a target="_blank" href="http://localhost:5173"> vjob.com</a>
+    </mj-text>
+    <mj-text font-size="12px">
+      Hãy liên hệ với chúng tôi bằng cách gửi email tới:
+      <b>nsnl.coder@gmail.com</b>
+    </mj-text>
+
+    <!-- <mj-text font-size="12px">
+      Thành thật xin lỗi nếu mail này đã làm phiền bạn. Bạn có thể từ chối tiếp
+      nhận mail <a href="https://amazon.ca">tại đây</a>.
+    </mj-text> -->
+  </mj-column>
+</mj-section>
